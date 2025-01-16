@@ -11,10 +11,14 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+fill (239, 195, 202)
 
-  
-
+ellipse(206,171,150,220);
+fill (141, 111, 100)
+rect(72,307,20,20);
+rect (191,306,20,20);
+ellipse(138,347,20,20)
+fill(231, 221, 255)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
